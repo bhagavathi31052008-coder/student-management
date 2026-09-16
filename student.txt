@@ -1,0 +1,12 @@
+Our project is a full-stack Student Management System that provides a centralized platform to manage student records.
+ Users can add new students, view existing records, update information, and delete records when required. The system 
+also provides search and filtering features, input validation, and a responsive interface. The application connects
+ the frontend with a backend and database so that student information is stored and managed persistently.
+
+
+🚀 Student Management System – Final Website
+
+🌐 Access the Live Application:
+https://student-management-hub--bhagavathi31052.replit.app
+
+
